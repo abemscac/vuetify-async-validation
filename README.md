@@ -96,14 +96,14 @@ Since the async validation usually means we are calling APIs to do some check, i
 The default debounce interval is 0, which means no debouncing at all.
 The plugin provides 2 ways to add debouncing mechanism.
 
-### 1. Set debounce interval globally
+### 1. Globally
 You can achieve this by passing an object as the second argument while ```Vue.use(VuetifyAsyncValidation)```.
 ```javascript
 Vue.use(VuetifyAsyncValidation, {
   debounceInterval: 1000, // ms
 });
 ```
-### 2. Set debounce interval for individual input
+### 2. Individually
 You can also set the debounce interval for individual input by using the "debounce" argument on "v-async-validate" directive.
 ```html
 <v-text-field
