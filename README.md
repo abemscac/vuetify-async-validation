@@ -2,7 +2,7 @@
 
 A plugin for [Vuetify](https://vuetifyjs.com/en/) 2.x async validation.
 
-![preview](./.github/images/preview.gif)
+![preview](https://user-images.githubusercontent.com/59676941/123539329-c87c6480-d76b-11eb-9e51-d96986187b48.gif)
 
 <a id="demo"></a>
 
