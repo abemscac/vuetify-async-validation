@@ -49,7 +49,7 @@ Add "v-async-form" directive on \<v-form\> element in template
 
 ### 3. Modify input element
 1. Add "v-async-validate" directive on any input element provided by Vuetify that you want to validate asynchronously. For example, \<v-text-field\>
-2. Change property "v-bind:rules" to "v-bind:async-rules"
+2. Change property "v-bind:rules" to "v-bind:async-rules" (**although it is called async-rules, you can still use sync rules in the array**)
 ```html
 <v-form
   v-async-form
