@@ -103,7 +103,8 @@ Vue.use(VuetifyAsyncValidation, {
   debounceInterval: 1000, // ms
 });
 ```
-### 2. Individually
+
+### 2. For individual input
 You can also set the debounce interval for individual input by using the "debounce" argument on "v-async-validate" directive.
 ```html
 <v-text-field
@@ -113,3 +114,5 @@ You can also set the debounce interval for individual input by using the "deboun
   :rules="$_rules.email">
 </v-text-field>
 ```
+
+The plugin will read individual value first if both values are applied.
