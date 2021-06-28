@@ -19,7 +19,7 @@
     "vuetify asyc validation"
   ],
   "author": "abemscac",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/abemscac/vuetify-async-validation/issues"
   },
