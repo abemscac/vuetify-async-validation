@@ -1,7 +1,7 @@
 {
   "name": "vuetify-async-validation",
-  "version": "1.0.0",
-  "description": "An unofficial plugin for Vuetify 2.x async validation.",
+  "version": "1.0.1",
+  "description": "A plugin for Vuetify 2.x async validation.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
