@@ -4,15 +4,14 @@ A plugin for [Vuetify](https://vuetifyjs.com/en/) 2.x async validation.
 
 ![preview](https://user-images.githubusercontent.com/59676941/123539329-c87c6480-d76b-11eb-9e51-d96986187b48.gif)
 
-<a id="demo"></a>
+## Installation
+
+- If you're using yarn: `yarn add vuetify-async-validation`
+- If you're using npm: `npm install vuetify-async-validation --save`
 
 ## Demo
 
 See live demo on [CodeSandbox](https://codesandbox.io/s/vuetify-async-validation-demo-mu0fo).
-
-## Installation
-
-`yarn add vuetify-async-validation`
 
 ## Usage
 

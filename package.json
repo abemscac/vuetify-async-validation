@@ -1,7 +1,7 @@
 {
   "name": "vuetify-async-validation",
-  "version": "1.0.1",
-  "description": "A plugin for Vuetify 2.x async validation.",
+  "version": "1.0.2",
+  "description": "A plugin for Vuetify async validation.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -14,9 +14,7 @@
   },
   "keywords": [
     "vue",
-    "vuejs",
-    "vuetify",
-    "vuetify asyc validation"
+    "vuetify"
   ],
   "author": "abemscac",
   "license": "MIT",
